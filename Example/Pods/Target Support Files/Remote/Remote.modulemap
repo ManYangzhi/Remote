@@ -1,0 +1,6 @@
+framework module Remote {
+  umbrella header "Remote-umbrella.h"
+
+  export *
+  module * { export * }
+}

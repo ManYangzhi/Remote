@@ -1,0 +1,6 @@
+framework module Pods_Remote_Tests {
+  umbrella header "Pods-Remote_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
